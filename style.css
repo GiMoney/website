@@ -1,0 +1,6 @@
+html {background-color:black;}
+body {font-family: 'Open Sans', sans-serif; text-align:center; color:white;}
+h1 {font-size:90px;}
+.profile {height:256px; width:256px; border-radius:128px;}
+.social {color:white; text-decoration: none; margin:10px; display:inline-block;}
+.social svg {display:block;}
